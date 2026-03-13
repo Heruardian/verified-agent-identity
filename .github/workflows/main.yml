@@ -13,7 +13,6 @@ on:
         default: 'cloud AI Agent'
 
 jobs:
-  verify:did:iden3:billions:main:2VoKfENGUXiB5WYmBb7nPthLiyUEbQeTi4USgwFZpx
     runs-on: ubuntu-latest
 
     steps:
